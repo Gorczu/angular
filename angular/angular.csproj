@@ -87,6 +87,10 @@
     <Content Include="js\7MinWorkout\services.js" />
     <Content Include="js\7MinWorkout\workout.js" />
     <Content Include="js\app.js" />
+    <Content Include="partials\description-panel.html" />
+    <Content Include="partials\finish.html" />
+    <Content Include="partials\start.html" />
+    <Content Include="partials\workout.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
